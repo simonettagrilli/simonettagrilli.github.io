@@ -23,7 +23,7 @@ repository               : "simonettagrilli/simonettagrilli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information 
-  avatar           : "images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Simonetta Grilli"
   pronouns         : ""  
   bio              : "She is currently Director of Research at the National Council of Research of Italy. She recently coordinated different research projects at both national and European level, and she is co-author of more than 200 scientific papers in peer-reviewed international journals. Her main research interests include electrohydrodynamics, ferroelectric crystals, biosensors, optical microscopy, and innovative techniques for the manipulation of the soft matter at the microscale. "
