@@ -12,52 +12,52 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Simonetta Grilli / Director of Research"
 title_separator          : "-"
 name                     : &name "Simonetta Grilli"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "CNR Researcher working on electrohydrodynamics, biosensing, optical microscopy"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://simonettagrilli.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : ""
+repository               : "simonettagrilli/simonettagrilli.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "images/profile.jpg"
+  name             : "Simonetta Grilli"
+  pronouns         : ""  
+  bio              : "She is currently Director of Research at the National Council of Research of Italy. She recently coordinated different research projects at both national and European level, and she is co-author of more than 200 scientific papers in peer-reviewed international journals. Her main research interests include electrohydrodynamics, ferroelectric crystals, biosensors, optical microscopy, and innovative techniques for the manipulation of the soft matter at the microscale. "
+  location         : "Pozzuoli (Naples), Italy"
+  employer         : "National Council of Research"
+  uri              : ""
+  email            : "simonetta.grilli@cnr.it" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  academia         : ""
+  arxiv            : ""
+  googlescholar    : "https://scholar.google.com/citations?user=rM9jPGkAAAAJ&hl"
+  inspire-hep      : ""
+  impactstory      : ""
+  orcid            : "https://orcid.org/0000-0002-2631-4038"
+  semantic         : ""
+  ssrn             : ""
+  pubmed           : ""
+  researchgate     : ""
+  scopus           : ""
+  zotero           : ""
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket        : ""
+  codepen          : ""
+  dribbble         : ""
+  github           : ""
+  kaggle           : "" 
+  stackoverflow    : ""   
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : ""
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
