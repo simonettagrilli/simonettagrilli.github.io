@@ -17,7 +17,8 @@ My research interests focus on:
 - biosensors
 - optical microscopy
 - development of innovative biosensing technologies
-- low abundant biomarkers 
+- low abundant biomarkers
+  [Download my CV](/files/cv.pdf)
 
 ## Profiles
 - [Google Scholar](https://scholar.google.com/citations?user=rM9jPGkAAAAJ&hl)
