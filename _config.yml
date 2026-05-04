@@ -33,18 +33,18 @@ author:
   email            : "simonetta.grilli@cnr.it" 
 
   # Academic websites
-  #academia         : ""
-  #arxiv            : ""
+  academia         : ""
+  arxiv            : ""
   googlescholar    : "https://scholar.google.com/citations?user=rM9jPGkAAAAJ&hl"
-  #inspire-hep      : ""
-  #impactstory      : ""
+  inspire-hep      : ""
+  impactstory      : ""
   orcid            : "https://orcid.org/0000-0002-2631-4038"
-  #semantic         : ""
-  #ssrn             : ""
-  #pubmed           : ""
-  #researchgate     : ""
-  #scopus           : ""
-  #zotero           : ""
+  semantic         : ""
+  ssrn             : ""
+  pubmed           : ""
+  researchgate     : ""
+  scopus           : ""
+  zotero           : ""
 
 
   # Repositories and software development
