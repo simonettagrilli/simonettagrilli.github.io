@@ -9,7 +9,7 @@ author_profile: true
 
 ## About me
 
-I am Director of Researcher at the National Research Council, Institute of Applied Sciences and Intelligent Systems (CNR-ISASI).
+I am Director of Research at the National Research Council, Institute of Applied Sciences and Intelligent Systems (CNR-ISASI).
 
 My research interests focus on:
 - electrohydrodynamics
