@@ -12,14 +12,14 @@ author_profile: true
 I am Director of Research at the National Research Council, Institute of Applied Sciences and Intelligent Systems (CNR-ISASI).
 
 ### Affiliations
-
+🏛 Affiliations
 - National Research Council of Italy (CNR)  
 - Institute of Applied Sciences and Intelligent Systems (ISASI)  
 
 🔗 <a href="https://www.cnr.it" target="_blank">CNR website</a>  
 🔗 <a href="https://www.isasi.cnr.it/" target="_blank">ISASI website</a>
 
-My research interests focus on:
+🔬 Research Interests:
 - electrohydrodynamics
 - ferroelectric crystals
 - biosensors
