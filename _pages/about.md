@@ -20,12 +20,12 @@ I am Director of Research at the National Research Council, Institute of Applied
 🔗 <a href="https://www.isasi.cnr.it/" target="_blank">ISASI website</a>
 
 🔬 Research Interests:
-- electrohydrodynamics
-- ferroelectric crystals
-- biosensors
-- optical microscopy
-- development of innovative biosensing technologies
-- low abundant biomarkers
+- Pyro-electrohydrodynamics & Soft Matter Manipulation
+- High Sensitivity Biosensing Platforms & Biomarker Detection
+- Applied Biophotonics & Holographic Microscopy
+- Light-Matter Interactions & Cellular Imaging
+- Ferroelectric Crystals & Functional Nanomaterials 
+
 
 [Download my CV](/files/cv.pdf)
 
