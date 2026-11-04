@@ -60,17 +60,31 @@
     width: 100% !important;
     margin-top: 10px !important;
     margin-bottom: 20px !important;
-    /* Nasconde la linea e il pulsante del menu */
+  /* Forzo la scomparsa totale del pulsante menu a 3 linee */
+  .greedy-nav button, 
+  .greedy-nav .navicon, 
+  button.greedy-nav__toggle {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Rimuovo la linea grigia e qualsiasi vincolo di larghezza */
   #site-nav, .greedy-nav {
     border-bottom: none !important;
     box-shadow: none !important;
+    width: auto !important;
+    max-width: 100% !important;
   }
-  .greedy-nav button, .navicon {
-    display: none !important;
-  }
+
+  /* Assicuro che la scritta sia estesa su una sola riga e mai tagliata */
   .site-title {
     white-space: nowrap !important;
     border-bottom: none !important;
+    max-width: none !important;
   }
 </style>
 <script>
