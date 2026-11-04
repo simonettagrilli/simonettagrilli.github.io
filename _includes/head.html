@@ -15,21 +15,68 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 <style>
-  body {
+ body {
     background-color: #f8f9fa !important;
     color: #2c3e50 !important;
   }
-  /* Stile pulito per la barra di intestazione */
+  
+  /* Elimina la sottolineatura dal nome */
+  .site-title, .site-title:hover {
+    border-bottom: none !important;
+    box-shadow: none !important;
+    text-decoration: none !important;
+  }
+
+  /* Spaziatura e allineamento per la barra in alto */
   .masthead {
     background-color: #ffffff !important;
-    border-bottom: 2px solid #334e68 !important;
-    padding: 15px 0 !important;
+    border-bottom: none !important;
+    padding: 15px 20px 5px 20px !important;
   }
-  .masthead a, .site-title {
+
+  .masthead__inner-wrap {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    max-width: 100% !important;
+  }
+
+  .site-title {
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
     color: #243b53 !important;
-    font-weight: 600 !important;
   }
-  .site-title:hover {
-    color: #102a43 !important;
+
+  .cnr-top-logo {
+    height: 40px !important;
+    width: auto !important;
+    display: block !important;
+  }
+
+  /* Fascia blu piena sotto l'intestazione */
+  .cnr-blue-banner {
+    background-color: #334e68 !important;
+    height: 45px !important;
+    width: 100% !important;
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
   }
 </style>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var innerWrap = document.querySelector(".masthead__inner-wrap");
+    if (innerWrap && !document.getElementById("cnr-logo-container")) {
+      var logoDiv = document.createElement("div");
+      logoDiv.id = "cnr-logo-container";
+      logoDiv.innerHTML = '<a href="https://www.cnr.it" target="_blank"><img src="/images/cnr-logo.png" alt="CNR Logo" class="cnr-top-logo"></a>';
+      innerWrap.appendChild(logoDiv);
+    }
+    
+    var masthead = document.querySelector(".masthead");
+    if (masthead && !document.querySelector(".cnr-blue-banner")) {
+      var banner = document.createElement("div");
+      banner.className = "cnr-blue-banner";
+      masthead.parentNode.insertBefore(banner, masthead.nextSibling);
+    }
+  });
+</script>
