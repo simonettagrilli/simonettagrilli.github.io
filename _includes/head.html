@@ -86,6 +86,17 @@
     border-bottom: none !important;
     max-width: none !important;
   }
+    /* Rimuove l'icona del menu, la linea e l'area del pulsante */
+  .greedy-nav button, .navicon, button, .hidden-links {
+    display: none !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+  
+  #site-nav, .greedy-nav {
+    border: none !important;
+    box-shadow: none !important;
+  }
 </style>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
