@@ -100,15 +100,6 @@
   }
 </style>
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var innerWrap = document.querySelector(".masthead__inner-wrap");
-    if (innerWrap && !document.getElementById("cnr-logo-container")) {
-      var logoDiv = document.createElement("div");
-      logoDiv.id = "cnr-logo-container";
-      logoDiv.innerHTML = '<a href="https://www.cnr.it" target="_blank"><img src="/images/cnr-logo.png" alt="CNR Logo" class="cnr-top-logo"></a>';
-      innerWrap.appendChild(logoDiv);
-    }
-    
     var masthead = document.querySelector(".masthead");
     if (masthead && !document.querySelector(".cnr-blue-banner")) {
       var banner = document.createElement("div");
