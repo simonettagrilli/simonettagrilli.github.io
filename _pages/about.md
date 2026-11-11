@@ -9,11 +9,13 @@ author_profile: true
 
 ## About me
 
-I am Director of Research at the National Research Council, Institute of Applied Sciences and Intelligent Systems (CNR-ISASI).
+I am Director of Research at the National Research Council (CNR)
+
+<img src="/images/cnr-logo.png" alt="CNR Logo" style="height: 40px; margin-top: 10px; display: block;">
 
 ### 🏛 Affiliation
 
-Institute of Applied Sciences and Intelligent Systems (ISASI) of the National Research Council of Italy (CNR)  
+Institute of Applied Sciences and Intelligent Systems of CNR (CNR-ISASI)  
 
 🔗 <a href="https://www.cnr.it" target="_blank">CNR website</a>  
 🔗 <a href="https://www.isasi.cnr.it/" target="_blank">ISASI website</a>
