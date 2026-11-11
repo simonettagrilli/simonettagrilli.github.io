@@ -13,7 +13,7 @@ I am Director of Research at the National Research Council, Institute of Applied
 
 ### 🏛 Affiliation
 
-- Institute of Applied Sciences and Intelligent Systems (ISASI) of the National Research Council of Italy (CNR)  
+Institute of Applied Sciences and Intelligent Systems (ISASI) of the National Research Council of Italy (CNR)  
 
 🔗 <a href="https://www.cnr.it" target="_blank">CNR website</a>  
 🔗 <a href="https://www.isasi.cnr.it/" target="_blank">ISASI website</a>
