@@ -28,7 +28,7 @@ Institute of Applied Sciences and Intelligent Systems of CNR (CNR-ISASI)
 - Ferroelectric Crystals & Functional Nanomaterials 
 
 
-[Download my CV](/files/cv.pdf)
+[Download my CV](/files/CV_Nov26.pdf)
 
 ## Profiles
 - [Google Scholar](https://scholar.google.com/citations?user=rM9jPGkAAAAJ&hl)
